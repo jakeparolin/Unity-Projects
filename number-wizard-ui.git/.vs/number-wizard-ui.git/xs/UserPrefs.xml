@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D271A283-7544-E7C9-F3C1-01259752FAE5}|">
+  <MonoDevelop.Ide.ItemProperties.number-wizard-ui.git PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NumberWizards.cs">
+    <Files>
+      <File FileName="Assets/LevelManager.cs" Line="14" Column="28" />
+      <File FileName="Assets/NumberWizards.cs" Line="5" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
